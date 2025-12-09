@@ -138,7 +138,7 @@
 # CI/CD
 <img width="1556" height="418" alt="Untitled – Figma - Chrome 2025-12-05 오후 4_27_32" src="https://github.com/user-attachments/assets/2ead373a-e0d1-408d-8c2b-0c2074781f71" />
 
-#🔑 ERD
+# 🔑 ERD
 
 <!--
 
