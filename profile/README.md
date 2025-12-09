@@ -1,8 +1,8 @@
-## 📚 bookscamp.store프로젝트 소개
+# 📚 bookscamp.store프로젝트 소개
  - bookscamp는  다양한 카테고리의 책을 조회하고 구매할 수 있는 사이트입니다.
  - URL: [https://chxxry.bookscamp.store](https://chxxry.bookscamp.store)
 
-# Repositories
+## Repositories
  - config: [https://github.com/nhnacademy-be11-bookscamp/config-server](https://github.com/nhnacademy-be11-bookscamp/config-server)
  - eureka: [https://github.com/nhnacademy-be11-bookscamp/eureka](https://github.com/nhnacademy-be11-bookscamp/eureka)
  - gateway: [https://github.com/nhnacademy-be11-bookscamp/gateway](https://github.com/nhnacademy-be11-bookscamp/gateway)
@@ -10,7 +10,7 @@
  - api: [https://github.com/nhnacademy-be11-bookscamp/api](https://github.com/nhnacademy-be11-bookscamp/api)
  - auth: [https://github.com/nhnacademy-be11-bookscamp/auth](https://github.com/nhnacademy-be11-bookscamp/auth)
 
-# 개발기간
+## 개발기간
  - 2025.10.15 ~ 2025.12.05
 
 <!--
