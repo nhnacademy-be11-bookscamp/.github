@@ -1,2 +1,1 @@
-# .github
-프로젝트 소개
+📚 bookscamp.store프로젝트 소개
