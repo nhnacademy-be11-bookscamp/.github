@@ -132,8 +132,16 @@
 ## Front
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+#⚙️ 아키텍쳐 구조
+<img width="1451" height="918" alt="Untitled – Figma - Chrome 2025-12-05 오후 4_17_39" src="https://github.com/user-attachments/assets/bd4a594d-cec7-495b-a21c-4013af5c79db" />
+
+# CI/CD
+<img width="1556" height="418" alt="Untitled – Figma - Chrome 2025-12-05 오후 4_27_32" src="https://github.com/user-attachments/assets/2ead373a-e0d1-408d-8c2b-0c2074781f71" />
+
+#🔑 ERD
 
 <!--
+
 
 **Here are some ideas to get you started:**
 
