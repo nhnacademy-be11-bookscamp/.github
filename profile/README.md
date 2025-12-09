@@ -11,7 +11,7 @@
  - auth: [https://github.com/nhnacademy-be11-bookscamp/auth](https://github.com/nhnacademy-be11-bookscamp/auth)
 
 # 개발기간
- - 2025.07.01 ~ 2025.12.05
+ - 2025.10.15 ~ 2025.12.05
 
 <!--
 
