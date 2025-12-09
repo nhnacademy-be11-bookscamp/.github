@@ -13,6 +13,69 @@
 ## 개발기간
  - 2025.10.15 ~ 2025.12.05
 
+## 구성원
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KKahyun">
+        <img src="https://github.com/KKahyun.png" width="100px" alt="김가현"/>
+        <br />
+        <sub><b>김가현</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cherrrryk">
+        <img src="https://github.com/Cherrrryk.png" width="100px" alt="김채리"/>
+        <br />
+        <sub><b>김채리</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BaekSeongJun">
+        <img src="https://github.com/BaekSeongJun.png" width="100px" alt="백성준"/>
+        <br />
+        <sub><b>백성준</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yoon-Bin99">
+        <img src="https://github.com/Yoon-Bin99.png" width="100px" alt="윤빈"/>
+        <br />
+        <sub><b>윤빈</b></sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/dldnjswnd">
+        <img src="https://github.com/dldnjswnd.png" width="100px" alt="이원중"/>
+        <br />
+        <sub><b>이원중</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/2Limit">
+        <img src="https://github.com/2Limit.png" width="100px" alt="이한정"/>
+        <br />
+        <sub><b>이한정</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kiju-dev">
+        <img src="https://github.com/kiju-dev.png" width="100px" alt="정기주"/>
+        <br />
+        <sub><b>정기주</b></sub>
+      </a>
+    </td>
+   </td>
+    <td align="center">
+      <a href="https://github.com/eahc00">
+        <img src="https://github.com/eahc00.png" width="100px" alt="하영채"/>
+        <br />
+        <sub><b>하영채</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
