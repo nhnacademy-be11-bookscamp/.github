@@ -76,6 +76,63 @@
   </tr>
 </table>
 
+##🏢 개발 환경
+ - 개발도구: Intellij IDEA - Ultimate
+ - 언어: Java 21 Temurin
+ - 빌드도구: Maven
+ - 개발
+   - Spring Framework: 6.3
+   - Spring Boot: 3.5.6
+   - Spring Cloud
+     - Spring Cloud Gateway
+     - Spring Cloud Netflex(Eureka)
+     - Spring Cloud Config
+     - Spring Cloud OpenFeign
+   - Spring Data
+     - Spring Data JPA
+     - Spring Data Elasticsearch
+     - Spring Data Redis
+ - 테스트
+   - Junit5
+   - AssertJ
+   - Mockito
+   - SonarQube
+ - 데이터베이스
+   - MySQL
+   - Redis
+ - 검색엔진
+   - Elastic Search
+ - ERD
+   - ERDCloud
+ - UI
+   - BOOTSTRAP5
+ - Object Storage
+   - Minio
+ - Message Queue
+   - RabbitMQ
+  
+## 언어
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+## Framework
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+
+## Build Tool
+<img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+
+## DataBase
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+## DevOps & Infra
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/MinIO-C72E4F?style=for-the-badge&logo=minio&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+
+## ETC
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+
+## Front
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
 <!--
 
 **Here are some ideas to get you started:**
