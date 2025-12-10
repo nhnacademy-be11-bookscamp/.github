@@ -233,20 +233,23 @@
 ## 정기주
 
 ## 하영채
-  ### 장바구니 
-    - Redis + 쿠키 기반 회원/비회원 장바구니 기능 설계 및 구현
-    - 비회원 장바구니 TTL 적용
-    - Redis Hash/Serializer 구조 설계 및 캐시 유효성 검증 + fallback 쿼리 구현
-    - Redis–DB 일관성 유지 전략 마련
-  ### 쿠폰
-    - RabbitMQ 기반 이벤트 드리븐 아키텍처로 회원가입 쿠폰 발급 자동화
-    - 회원가입 트랜잭션과 회원가입 쿠폰 발행 로직 분리로 장애 전파 차단
-    - 매월 1일 생일쿠폰 자동 발급 스케줄러 구현
-  ### CI/CD, MSA 구조 설계 및 서버 연동
-    - Spring Cloud Eureka 기반 서비스 디스커버리 구축
-    - API Gateway 라우팅 구현
-    - 다중 인스턴스 서버 운영 및 Gateway Load Balancing 구성
-    - GitHub Actions 기반 자동 배포 파이프라인 구축
+
+### 장바구니 
+  - Redis + 쿠키 기반 회원/비회원 장바구니 기능 설계 및 구현
+  - 비회원 장바구니 TTL 적용
+  - Redis Hash/Serializer 구조 설계 및 캐시 유효성 검증 + fallback 쿼리 구현
+  - Redis–DB 일관성 유지 전략 마련
+
+### 쿠폰
+  - RabbitMQ 기반 이벤트 드리븐 아키텍처로 회원가입 쿠폰 발급 자동화
+  - 회원가입 트랜잭션과 회원가입 쿠폰 발행 로직 분리로 장애 전파 차단
+  - 매월 1일 생일쿠폰 자동 발급 스케줄러 구현
+
+### CI/CD, MSA 구조 설계 및 서버 연동
+  - Spring Cloud Eureka 기반 서비스 디스커버리 구축
+  - API Gateway 라우팅 구현
+  - 다중 인스턴스 서버 운영 및 Gateway Load Balancing 구성
+  - GitHub Actions 기반 자동 배포 파이프라인 구축
 
 ## 팀원 공통
 
