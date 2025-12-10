@@ -141,6 +141,74 @@
 # 🔑 ERD
 <img width="4770" height="2032" alt="251118_bookscamp_update_submit" src="https://github.com/user-attachments/assets/acd44bc4-8f16-4fb6-b4ad-d3ee91f0ad1e" />
 
+# 📆 Project Management
+ | Github 제공하는 Projects를 활용하여 전반적인 프로젝트 관리
+
+## Scrum
+  - 시간
+    - 매일 오전 9:00 시 Scrum Meeting 금요일만 예외적으로 16:00에 진행
+  - 회의 내용
+    - 금일 Scrum Meeting까지 진행한 내용
+    - 다음 Scrum Meeting까지 진행할 내용
+    - 팀원들과 논의가 필요하다고 판단되는 사항
+  - [https://github.com/orgs/nhnacademy-be11-bookscamp/discussions/categories/daily-scrum](https://github.com/orgs/nhnacademy-be11-bookscamp/discussions/categories/daily-scrum)
+ <img width="2560" height="1184" alt="nhnacademy-be11-bookscamp · Discussions · GitHub - Chrome 2025-12-10 오후 1_19_40" src="https://github.com/user-attachments/assets/f80cfcc1-4f5b-4f96-b7af-42f12e3f1d4b" />
+
+## 일정관리
+  - GitHub Roadmap을 활용하여 전체 일정 및 진행 상황을 시작적으로 관리
+  - WBS(Work Breakdown Structure)를 작성하여 요구사항을 세부 작업으로 분해하고, 이를 등록하여 역활을 분담하고 일정 추적
+  - [https://github.com/orgs/nhnacademy-be11-bookscamp/projects/1](https://github.com/orgs/nhnacademy-be11-bookscamp/projects/1)
+<img width="2532" height="1262" alt="nhnacademy-be11-bookscamp · Discussions · GitHub - Chrome 2025-12-10 오후 1_24_04" src="https://github.com/user-attachments/assets/8491d814-c4a9-4808-95ff-1ffd8fd00381" />
+
+# 기능
+
+## 김가현
+
+## 김채리
+
+## 백성준
+
+### 로그인/회원관리
+  - Spring Security 및 Payco, Google OAuth2를 이용한 로그인 기능 구현
+  - 회원가입 회원 생성 기능 구현
+  - 휴면 상태 회원 Dooray 인증을 통한 휴면 해제 구현
+  - 매일 00:00시에 마지막 로그인과 현재 날짜를 기준으로 3달이 지나면 휴면상태로 전환 구현
+  - 회원 탈퇴 기능 구현
+
+### 인증/인가
+  - 로그인 시 AUTH 서버로 이동하여 Access Token + Refresh Token 발급
+  - Refresh Token은 AUTH 서버의 Redis에 저장
+  - FRONT에 Acess Token과 Refresh Token을 모두 쿠키로 저장
+  - API서버에 요청시 GATEWAY 서버에서 회원의 Access Token 검증
+  - Access Token이 유효하지 않으면 Refresh Token이 유효한지 확인하고 유효하면 토큰 재발급
+  - Access Token이 유효하면 API 서버에 요청
+  - BACK 서버에서 @RequiredRole("") 어노테이션을 통해 인가 처리
+
+### 회원/관리자 페이지
+  - 회원 메인 마이페이지에서 회원 조회 정보 조회, 회원 탈퇴 버튼 구현
+  - 회원이 정보를 수정할 수 있는 페이지 구현
+  - 로그인 페이지, Payco, Google 로그인 버튼 구현
+  - 회원가입 페이지 및 OAuth2용 회원가입 페이지 구현
+  - 휴면 회원 상태 인증 페이지 구현
+  - 관리자 회원 목록 조회 / 회원 상태 변경/ 회원 탈퇴 기능 구현
+    
+## 윤빈
+
+## 이원중
+
+## 이한정
+
+## 정기주
+
+## 하영채
+
+## 팀원 공통
+
+  - 요구 사항에 따른 데이터베이스 설계 및 ERD Diagram 작성
+  - 스크럼 회의
+  - Swagger를 사용해 API 정리
+  - Test 코드 및 SonarQube를 통해 코드 검증 
+
 <!--
 
 
