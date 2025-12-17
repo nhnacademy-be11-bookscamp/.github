@@ -286,6 +286,18 @@
     
 ## 이한정
 
+### 도서
+  - aladin 외부 api로 받은 도서 및 수동 도서 등록 기능 구현
+  - 도서 csv 파일 파싱 및 기능 구현
+  - 15만건 데이터 MySQL DB에 Entity에 맞게 관련 데이터 주입
+  - 도서 데이터 텍스트 임베딩 및 Vector DB(Elasticsearch)에 주입
+
+### 검색
+  - RAG 파이프라인 기술 구현
+  - Vector DB(Elasticsearch)를 사용한 검색 기능 구현
+  - 외부 API(Ollama, Re-ranker)를 이용한 검색 기능 구현
+  - Gemini-flash 3.0 모델을 이용한 데이터 검증 및 응답 생성 기능 구현
+
 ## 정기주
 
 ### 주문
